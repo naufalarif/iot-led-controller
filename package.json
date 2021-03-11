@@ -1,0 +1,16 @@
+{
+  "name": "led-controller",
+  "version": "1.0.0",
+  "description": "IoT with Johnny-Five",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mozart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "serialport": "^9.0.7"
+  }
+}
